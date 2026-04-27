@@ -81,7 +81,7 @@ Then add the presets that match your dependency types.
 }
 ```
 
-## CI
+## PR Validation
 
 `.github/workflows/ci.yml` runs on every PR:
 
